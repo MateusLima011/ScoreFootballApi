@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScoreFootballApi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Inicio</string>
+    <string name="account">Conta</string>
+    <string name="leagues">Ligas</string>
+    <string name="statistics">Estatísticas</string>
+    <string name="contentDescriptionViewPlayer">imagem do jogador</string>
+    <string name="internetError">"Você está sem acesso a internet.\nTente se conectar a outra rede
+        wifi, ou conecte-se pelo dados moveis"</string>
+    <string name="genericError">"Ocorreu um erro no servidor./nTente novamente!!"</string>
+</resources>
